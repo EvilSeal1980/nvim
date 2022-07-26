@@ -32,10 +32,6 @@ Overview
 
 <details>
 <summary>More details</summary>
-<<<<<<< HEAD
-=======
-
->>>>>>> 5b9280e48c3d7e1ea2f594b76fb04178b4889961
 
 Code Completion
 
