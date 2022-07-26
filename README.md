@@ -1,10 +1,6 @@
 # Neovim Config
 
-<<<<<<< HEAD
-[![Last commit](https://img.shields.io/github/last-commit/EvilSeal1980/nvim?style=for-the-badge)](https://github.com/EvilSEal1980/nvim/commits/main)
-=======
 [![Last commit](https://img.shields.io/github/last-commit/EvilSeal1980/nvim?style=for-the-badge)](https://github.com/EvilSeal1980/nvim/commits/main)
->>>>>>> 5b9280e48c3d7e1ea2f594b76fb04178b4889961
 ![Neovim Version](https://img.shields.io/badge/For%20Neovim-0.7+-yellowgreen?style=for-the-badge&logo=neovim&logoColor=d8abbb&color=d8abbb)
 
 ### A non-minimal Neovim config built to work most efficiently with Frontend and Java Development
