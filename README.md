@@ -47,7 +47,7 @@ ToogleTerm
 Copy it into your terminal:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/EvilSeal1980/nvim/main/.install/run.sh)
+git clone git@github.com:EvilSeal1980/nvim.git ~/.config/nvim
 ```
 
 After install configuration:
